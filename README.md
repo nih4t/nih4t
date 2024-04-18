@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://github.com/nih4t/nih4t/assets/82613166/c5dd8d7b-7b52-4102-a252-d1090409bcec" align="center"  />
+<img src="https://github.com/nih4t/nih4t/assets/82613166/2cae429a-6a1e-4938-8982-3789ce4ae004" align="center"  />
 </div>  
+
 
 
 ### <div align="center">Hi 👋, I'm Nihat</div>  
