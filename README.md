@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Deep Learning  
   
 
-- ❓ Ask me about anything related to Machine Learning, Data Analysis and Deep Learning  
+- ❓ Ask me about anything related to Machine Learning, Deep Learning and Data Analysis
   
 
 <br/>  
