@@ -7,14 +7,7 @@
 ### <div align="center">Hi 👋, I'm Nihat</div>  
   
 
-- 🔭 I’m currently Computer Engineer student at Inonu University and University of Kassel   
-  
-
-- 🌱 I’m currently learning Deep Learning  
-  
-
-- ❓ Ask me about anything related to Machine Learning, Deep Learning and Data Analysis
-  
+I’m currently Computer Engineer student at Inonu University and University of Kassel     
 
 <br/>  
 
